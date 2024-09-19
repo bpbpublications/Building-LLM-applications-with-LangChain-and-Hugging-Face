@@ -1,2 +1,2 @@
-# Building LLM applications with LangChain and Hugging Face
- Building LLM applications with LangChain and Hugging Face, by BPB Publications
+# Mastering LLM Applications with LangChain and Hugging Face
+ Mastering LLM Applications with LangChain and Hugging Face, by BPB Publications
